@@ -8,8 +8,10 @@ redirect_from:
 ---
 About Me
 ======
+
 Research Interests
 ======
+
 Education
 ======
 
